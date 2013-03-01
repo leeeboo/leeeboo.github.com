@@ -1,10 +1,9 @@
-#李博的项目们#
-
 ##关于我：##
 
  * 作者：李博
  * 作者博客：http://imlibo.com
  * 作者微博：http://weibo.com/imlibo
 
-##简介：##
- * 专注且充满热情的开发者……
+##作品：##
+ * TeamToy首款原生iOS客户端：Coming soon ...
+ * TeamToy的iOS客户端TToy的支持插件：http://ttoy-plugin.imlibo.com
